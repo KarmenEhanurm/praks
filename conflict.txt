@@ -1,7 +1,4 @@
 Tudeng nr 1 loob faili conflict.txt ning kirjutab sinna sisusse paar rida teksti omal valikul. 
 Avage oma projekt Visual Studio Code’is: File -> Open Folder -> (vali oma projekt).
-<<<<<<< HEAD
-Looge sinna projekti uus fail nimega uus.txt
-=======
-Looge sinna projekti uus fail nimega conflict_Aleks.txt
->>>>>>> 32944af928bc2e90b1520d4dabf2285ac911e02d
+
+Looge sinna projekti uus fail nimega uus.txt ja conflict_Aleks.txt .
